@@ -1,2 +1,2 @@
-# guess-the-number-by-mirskk
+# Guess the Number Game! - By mirskk
 Simple number guessing game.
